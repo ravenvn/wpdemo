@@ -1,0 +1,56 @@
+2019-05-20T02:11:22+00:00 DEBUG 
+====Stripe Version: 4.1.16====
+====Start Log====
+Error: Unable to verify domain - missing secret key.
+====End Log====
+
+
+2019-05-20T02:12:06+00:00 DEBUG 
+====Stripe Version: 4.1.16====
+====Start Log====
+Error: Unable to verify domain - missing secret key.
+====End Log====
+
+
+2019-05-20T02:12:10+00:00 DEBUG 
+====Stripe Version: 4.1.16====
+====Start Log====
+Error: Unable to verify domain - missing secret key.
+====End Log====
+
+
+2019-05-20T02:12:12+00:00 DEBUG 
+====Stripe Version: 4.1.16====
+====Start Log====
+Error: Unable to verify domain - missing secret key.
+====End Log====
+
+
+2019-05-20T02:14:49+00:00 DEBUG 
+====Stripe Version: 4.1.16====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2019-05-20T02:22:27+00:00 DEBUG 
+====Stripe Version: 4.1.16====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2019-05-20T02:22:41+00:00 DEBUG 
+====Stripe Version: 4.1.16====
+====Start Log====
+Error: Unable to verify domain - missing secret key.
+====End Log====
+
+
+2019-05-20T02:32:18+00:00 DEBUG 
+====Stripe Version: 4.1.16====
+====Start Log====
+Error: Unable to verify domain - missing secret key.
+====End Log====
+
+
